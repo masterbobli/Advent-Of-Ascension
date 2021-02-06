@@ -26,7 +26,7 @@ https://github.com/Tslat/Advent-Of-Ascension/issues
 
   iii) Edit the file to your liking, then click "Propose File Change".
 
-NOTE: You are currently viewing the language files for the Minecraft-1.12.2 version of the mod. To translate the other versions, click the "Branch" button, and select which version you want to edit.
+NOTE: You are currently viewing the language files for the Minecraft-1.15.2 version of the mod. To translate the other versions, click the "Branch" button, and select which version you want to edit.
 
 You can read a tutorial on the editing process here:
 https://help.github.com/articles/editing-files-in-another-user-s-repository/
@@ -102,3 +102,76 @@ https://github.com/Tslat/Advent-Of-Ascension/issues
 
 您可以阅读该过程的说明：
 https://help.github.com/articles/editing-files-in-another-user-s-repository/
+
+--
+
+Deutsch:
+# Advent of Ascension
+Dies ist das offizielle Github für Advent of Ascension.
+
+Diese Unterkategorie ist für die neueste 1.15.2 Version der Mod.
+
+## HAFTUNGSAUSSCHLUSS
+Der in diesem Github zur Verfügung gestellte Quelltext ist lediglich zum Betrachten da. Unter der Lizenz ist es dir erlaubt, den Code AUSSCHLIEßLICH FÜR PRIVATE ZWECKE anzupassen.
+Die Verbreitung des Codes stellt eine Verletzung der Lizenzbestimmungen dar.
+
+Das Einreichen von Änderungen am Code ist nicht erlaubt. Der hier einsehbare Quelltext stammt ausschließlich aus der aktuellsten öffentlichen Version der Mod.
+Dementsprechend werden alle eingereichten Änderungen am Code sofort gelöscht. Für Fehlerbehebungen und Änderungen reiche eine Fehlermeldung oder einen Änderungsvorschlag ein.
+
+## Was kann ich hier tun?
+Du kannst hier drei Dinge tun:
+1. Eine Fehlermeldung einreichen. Dazu navigierst du zur "Issues" Seite und klickst auf "New Issue":
+https://github.com/Tslat/Advent-Of-Ascension/issues
+
+2. Einen Änderungsvorschlag einreichen. Dazu navigierst du zur "Issues" Seite, klickst auf "New Issue" und wählst die Art deines Vorschlags aus:
+https://github.com/Tslat/Advent-Of-Ascension/issues
+
+3. Zur Übersetzung der Mod beitragen. Dazu befolgst du folgende Schritte:
+
+  i) Navigiere zum "lang" Ordner und klicke auf die Datei der Sprache, in die du die Mod übersetzen möchtest;
+
+  ii) Klicke auf das kleine Stiftsymbol oben rechts, um die Datei zu bearbeiten;
+
+  iii) Bearbeite die Datei nach Belieben und klicke anschließend auf "Propose File Change".
+
+ANMERKUNG: Du betrachtest gerade die Übersetzungsdateien der Minecraft 1.15.2 Version der Mod. Um eine andere Version zu bearbeiten, klicke auf "Branch" und wähle die Version aus, die du bearbeiten möchtest.
+
+Eine Anleitung zum Bearbeiten der Dateien findest du hier:
+https://help.github.com/articles/editing-files-in-another-user-s-repository/
+
+--
+
+日本語:
+# Advent of Ascension
+これはAdvent of Ascensionの公式Githubです。
+
+このブランチは最新の1.15.2向けのmodです。
+
+## 免責事項
+このgithubで提供されているソースは閲覧のみを目的としています。ライセンスの元、「個人利用に限り」コードを変更することが許可されています。
+コードの再配布はライセンス違反です。
+
+ここで提供されているコードはコミットフリーです。ここで閲覧可能なすべてのソースは最新の公開情報を表示しています。
+そのため、このコードに対するすべての翻訳されていないコミットは直ちに削除されます。修正や変更のためのバグ報告や提案を提出してください。
+
+## ここで何が出来るの?
+ここにある3つのことが出来ます:
+1. バグ報告を提出することが出来ます。そのためには、下記のURLから"issues"ページに移動し、"New Issue"をクリックしてください。
+https://github.com/Tslat/Advent-Of-Ascension/issues
+
+2. 提案を提出することが出来ます。そのためには、下記のURLから"issues"ページに移動し、"New Issue"をクリックしてください。そして、あなたが望む提案の種類を選んでください。
+https://github.com/Tslat/Advent-Of-Ascension/issues
+
+3. modの翻訳に貢献することが出来ます。そのためには、次の手順を踏む必要があります。
+
+  i) 'lang'フォルダに行って、翻訳したい言語をクリックしましょう。
+
+  ii) ファイルを編集するために、右上の小さな鉛筆のアイコンをクリックしましょう。
+
+  iii) 好みにファイルを編集し、"Propose File Change"をクリックしましょう。
+
+注意: 現在見ている言語ファイルはMinecraft 1.15.2向けのmodのものです。ほかのバージョンの翻訳をするためには"Branch"ボタンをクリックし、編集したいバージョンを選びます。
+
+編集の過程のチュートリアルはここで読むことが出来ます。
+https://help.github.com/articles/editing-files-in-another-user-s-repository/
+
